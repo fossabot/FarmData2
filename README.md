@@ -37,7 +37,8 @@ Support and assistance with FarmData2 development has been received from [The No
 
 The development of FarmData2 has received partial support from:
 * The GNOME Community Engagement Challenge:
-  * [![Phase 1 Badge](media/GNOME-CEC-p1-small.png)](media/GNOME-CEC-p1.png)[![Phase 2 Badge](media/GNOME-CEC-p2-small.png)](media/GNOME-CEC-p2.png)    
+  * [![Phase 1 Badge](media/GNOME-CEC-p1-small.png)](media/GNOME-CEC-p1.png)[![Phase 2 Badge](media/GNOME-CEC-p2-small.png)](media/GNOME-CEC-p2.png) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWarpWing%2FFarmData2.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWarpWing%2FFarmData2?ref=badge_shield)
+   
 * The National Science Foundation (DUE-2013069) - Collaborative Research: Broadening Participation in Computing through Authentic, Collaborative Engagement with Computing for the Greater Good.
 * [Zulip](https://zulip.com) provides sponsored hosting for [FarmData2 community discussions](https://farmdata2.zulipchat.com/#narrow/stream/270883-general).
 
@@ -46,3 +47,7 @@ The development of FarmData2 has received partial support from:
 ![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons License") All textual materials in the FarmData2 project are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ![GPL V3 or Later](https://www.gnu.org/graphics/gplv3-or-later-sm.png "GPL V3 or later") All executable code in the FarmData2 project are licensed under the [GNU General Public License Version 3 or later](https://www.gnu.org/licenses/gpl.txt)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWarpWing%2FFarmData2.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FWarpWing%2FFarmData2?ref=badge_large)
